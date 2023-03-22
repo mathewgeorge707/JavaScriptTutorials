@@ -1,0 +1,16 @@
+.outer-Div{
+background-color: blueviolet;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+height: 100%;
+width: 100%;
+}
+.inner-Div{
+    background-color: bisque;
+    border-color: brown;
+    
+}
+body{
+    text-align: left;
+    align-content: center;
+    background-color: royalblue;
+}
